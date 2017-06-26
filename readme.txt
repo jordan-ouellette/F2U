@@ -1,14 +1,8 @@
-RedMine
-https://redmine.cs.uwindsor.ca/projects/2017w-60334-project-group-b
+Functional Webdesign Project for 60-334. 
 
-GIT
-https://git.cs.uwindsor.ca/2017w-60334-project-group-b
-
-Wiki
-https://redmine.cs.uwindsor.ca/projects/2017w-60334-project-group-b/wiki
-or
-Documention.pdf
-
-Hosted Example
+Live Hosted Example of Code
 http://beckett2.myweb.cs.uwindsor.ca/
+
+Jordan Ouellette
+
 
